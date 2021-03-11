@@ -3,3 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthrasher&repo=Facebook-Profile-Concept&theme=radical" width="300px" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthrasher&repo=Instagram-Profile-Concept&theme=radical" width="300px" height="150px" />
 </p>
+```sh
+make install
+npm test
+```
